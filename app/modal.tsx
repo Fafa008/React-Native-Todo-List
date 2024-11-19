@@ -7,7 +7,12 @@ import { Text, View } from "@/components/Themed";
 export default function ModalScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Hello World</Text>
+      <Text style={styles.title}>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus amet
+        corporis cupiditate repellat vel! Quas voluptatum sit soluta nesciunt
+        rem consequuntur eligendi iste labore, minima, ipsam sapiente,
+        exercitationem voluptatem harum!
+      </Text>
       <View
         style={styles.separator}
         lightColor="#eee"
